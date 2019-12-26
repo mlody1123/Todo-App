@@ -1,0 +1,9 @@
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_ITEMS = "GET_ITEMS";
+export const LIST_LOADING = "LIST_LOADING";
+export const DELETE_ITEM = "DELETE_ITEM";
+export const CLEAR_USER = "CLEAR_USER";
+export const CLEAR_ITEMS = "CLEAR_ITEMS";
+export const UPDATE_STATUS = "UPDATE_STATUS";
+export const CHANGE_FILTER = "CHANGE_FILTER";
